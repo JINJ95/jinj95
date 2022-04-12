@@ -1,5 +1,5 @@
 ### Hi there 👋
-✨ I really enjoy building web applications! Frequently, endeavoring to persevere through the struggles of Google Foo!=] 🔭 ✨ 
+🔭✨ Endeavoring to Persevere Google Foo!=]
 
 <!--
 **JINJ95/jinj95** is a _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
