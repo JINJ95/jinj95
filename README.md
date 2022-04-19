@@ -1,6 +1,6 @@
 ### Hi there 👋
 ✨🌍👾🔭✨
-⚡ I am Strengthening my Google Foo & Endeavoring to Persevere!=]
+##Strengthening my Google Foo & Endeavoring to Persevere!=]
 
 <!--
 **JINJ95/jinj95** is a _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
